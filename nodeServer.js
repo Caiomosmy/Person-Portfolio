@@ -4,4 +4,8 @@ const express = require ('express');
 const app = express();
 const port = 3000
 
+/*Colocar o caminho do arquivo*/
+
+const path = require("path")
+
 /**/
