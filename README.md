@@ -1,5 +1,5 @@
 # Project-basic-1-Page-in-person-portfolio
-Isso vai além de um portfólio comum, eu crie este portfólio estático usando HTML, CSS e JavaScript, Node.JS, Express.JS Vues.JS, Python, Django, MySQL, Docker para mostrar seus projetos e habilidades.
+Isso vai além de um portfólio comum, eu crie este portfólio estático usando HTML, CSS e JavaScript, Node.JS, Express.JS Vues.JS, Python, Django, MySQL, Docker para mostrar seus projetos e habilidades e todos os desafios que tive em criar tudo isso.
 
 **Seção de Apresentação:**
 
